@@ -1,0 +1,12 @@
+{
+  "name": "sala-haxball",
+  "version": "1.0.0",
+  "description": "Sala do Haxball via Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "haxball-headless": "^1.0.0"
+  }
+}
